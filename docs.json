@@ -127,7 +127,7 @@
           "anchor": "Github",
           "href": "https://github.com/PalPaxAI",
           "icon": "github"
-        },
+        }
       ]
     }
   },
@@ -163,7 +163,7 @@
   "footer": {
     "socials": {
       "website": "https://www.palpaxai.network/",
-      "x": " https://x.com/palpaxai",
+      "x": "https://x.com/palpaxainetwork",
       "github": "https://github.com/PalPaxAI"
     }
   },
