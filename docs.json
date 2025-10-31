@@ -1,8 +1,8 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "aspen",
-  "name": "PayAI Documentation",
-  "description": "Learn how to use PayAI to build the agentic future!",
+  "name": "PalPaxAI Documentation",
+  "description": "Learn how to use PalPaxAI to build the agentic future!",
   "colors": {
     "primary": "#006EFF",
     "light": "#F7F5F0",
@@ -15,7 +15,7 @@
         "tab": "Docs",
         "groups": [
           {
-            "group": "PayAI",
+            "group": "PalPaxAI",
             "pages": [
               "introduction"
             ]
@@ -125,7 +125,7 @@
       "anchors": [
         {
           "anchor": "Github",
-          "href": "https://github.com/PayAINetwork",
+          "href": "https://github.com/PalPaxAINetwork",
           "icon": "github"
         },
         {
@@ -144,7 +144,7 @@
     "links": [
       {
         "label": "Home",
-        "href": "https://payai.network"
+        "href": "https://PalPaxAI.network"
       }
     ],
     "primary": {
@@ -167,11 +167,11 @@
   },
   "footer": {
     "socials": {
-      "website": "https://payai.network",
-      "x": "https://x.com/PayAINetwork",
-      "github": "https://github.com/PayAINetwork",
-      "telegram": "https://t.me/PayAINetwork",
-      "linkedin": "https://linkedin.com/company/PayAINetwork"
+      "website": "https://PalPaxAI.network",
+      "x": "https://x.com/PalPaxAINetwork",
+      "github": "https://github.com/PalPaxAINetwork",
+      "telegram": "https://t.me/PalPaxAINetwork",
+      "linkedin": "https://linkedin.com/company/PalPaxAINetwork"
     }
   },
   "banner": {
