@@ -1,0 +1,180 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "aspen",
+  "name": "PayAI Documentation",
+  "description": "Learn how to use PayAI to build the agentic future!",
+  "colors": {
+    "primary": "#006EFF",
+    "light": "#F7F5F0",
+    "dark": "#172869"
+  },
+  "favicon": "/logo/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Docs",
+        "groups": [
+          {
+            "group": "PayAI",
+            "pages": [
+              "introduction"
+            ]
+          },
+          {
+            "group": "x402",
+            "pages": [
+              "x402/introduction",
+              "x402/quickstart"
+            ]
+          },
+          {
+            "group": "x402 Merchants",
+            "pages": [
+              "x402/servers/introduction",
+              {
+                "group": "Typescript",
+                "pages": [
+                  "x402/servers/typescript/express",
+                  "x402/servers/typescript/hono",
+                  "x402/servers/typescript/nextjs"
+                ]
+              },
+              {
+                "group": "Python",
+                "pages": [
+                  "x402/servers/python/fastapi",
+                  "x402/servers/python/flask"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "x402 Clients",
+              "pages": [
+                "x402/clients/introduction",
+                {
+                  "group": "Typescript",
+                  "pages": [
+                    "x402/clients/typescript/axios",
+                    "x402/clients/typescript/fetch"
+                  ]
+                },
+                {
+                  "group": "Python",
+                  "pages": [
+                    "x402/clients/python/httpx",
+                    "x402/clients/python/requests"
+                  ]
+                }
+              ]
+            },
+            {
+              "group": "x402 Facilitator",
+              "pages": [
+                "x402/facilitators/introduction",
+                "x402/supported-networks"
+              ]
+            },
+            {
+              "group": "x402 Reference",
+              "pages": [
+                "x402/reference"
+              ]
+            },
+          {
+            "group": "X402 Echo Merchant",
+            "pages": [
+              "x402-echo/introduction",
+              "x402-echo/getting-started"
+            ]
+          },
+          {
+            "group": "Freelance AI",
+            "pages": [
+              "freelance-ai/introduction",
+              "freelance-ai/getting-started",
+              "freelance-ai/how-it-works"
+
+            ]
+          },
+          {
+            "group": "CT Agent Monetization",
+            "pages": [
+              "ct-agent/introduction"
+            ]
+          },
+          {
+            "group": "Token Gateway",
+            "pages": [
+              "token-gateway/introduction"
+            ]
+          },
+          {
+            "group": "Project Info",
+            "pages": [
+              "project-info/tokenomics",
+              "project-info/token-use-and-legal-disclaimer",
+              "project-info/official-links",
+              "project-info/contributing"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Github",
+          "href": "https://github.com/PayAINetwork",
+          "icon": "github"
+        },
+        {
+          "anchor": "Support",
+          "href": "https://discord.gg/eWJRwMpebQ",
+          "icon": "discord"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Home",
+        "href": "https://payai.network"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Support",
+      "href": "https://discord.gg/eWJRwMpebQ"
+    }
+  },
+  "contextual": {
+    "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity",
+     "mcp",
+     "cursor",
+     "vscode"
+   ]
+  },
+  "footer": {
+    "socials": {
+      "website": "https://payai.network",
+      "x": "https://x.com/PayAINetwork",
+      "github": "https://github.com/PayAINetwork",
+      "telegram": "https://t.me/PayAINetwork",
+      "linkedin": "https://linkedin.com/company/PayAINetwork"
+    }
+  },
+  "banner": {
+      "content": "🎉 x402 is now live on Solana!"
+  }
+}
