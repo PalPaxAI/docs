@@ -1,0 +1,21 @@
+/* Custom CSS to increase logo size in navbar */
+/* Target logo image in navbar - Mintlify specific selectors */
+nav img[src*="logo"],
+nav img[src*="light.png"],
+nav img[src*="dark.png"],
+header img[src*="logo"],
+header img[src*="light.png"],
+header img[src*="dark.png"],
+a[href="/"] img,
+nav a img,
+header a img,
+.logo img {
+  height: 48px !important; /* Tăng từ mặc định (thường là 24-28px) lên 48px */
+  width: auto !important;
+  max-height: 48px !important;
+  object-fit: contain !important;
+}
+
+/* Nếu muốn logo lớn hơn nữa, có thể tăng lên 56px hoặc 64px */
+/* Bạn có thể điều chỉnh giá trị height ở trên theo ý muốn */
+

@@ -8,7 +8,7 @@
     "light": "#F7F5F0",
     "dark": "#172869"
   },
-  "favicon": "/logo/favicon.svg",
+  "favicon": "/logo/light.png",
   "navigation": {
     "tabs": [
       {
@@ -125,7 +125,7 @@
       "anchors": [
         {
           "anchor": "Github",
-          "href": "https://github.com/PalPaxAINetwork",
+          "href": "https://github.com/PalPaxAI",
           "icon": "github"
         },
         {
@@ -144,13 +144,13 @@
     "links": [
       {
         "label": "Home",
-        "href": "https://PalPaxAI.network"
+        "href": "https://www.palpaxai.network/"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Support",
-      "href": "https://discord.gg/eWJRwMpebQ"
+      "label": "Github",
+      "href": "https://github.com/PalPaxAI"
     }
   },
   "contextual": {
@@ -167,11 +167,10 @@
   },
   "footer": {
     "socials": {
-      "website": "https://PalPaxAI.network",
-      "x": "https://x.com/PalPaxAINetwork",
-      "github": "https://github.com/PalPaxAINetwork",
-      "telegram": "https://t.me/PalPaxAINetwork",
-      "linkedin": "https://linkedin.com/company/PalPaxAINetwork"
+      "website": "https://www.palpaxai.network/",
+      "x": "https://x.com/palpaxainetwork",
+      "github": "https://github.com/palpaxai",
+      "telegram": "https://t.me/PalPaxAINetwork"
     }
   },
   "banner": {
