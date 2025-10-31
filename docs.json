@@ -128,11 +128,6 @@
           "href": "https://github.com/PalPaxAI",
           "icon": "github"
         },
-        {
-          "anchor": "Support",
-          "href": "https://discord.gg/eWJRwMpebQ",
-          "icon": "discord"
-        }
       ]
     }
   },
@@ -168,9 +163,8 @@
   "footer": {
     "socials": {
       "website": "https://www.palpaxai.network/",
-      "x": "https://x.com/palpaxainetwork",
-      "github": "https://github.com/palpaxai",
-      "telegram": "https://t.me/PalPaxAINetwork"
+      "x": " https://x.com/palpaxai",
+      "github": "https://github.com/PalPaxAI"
     }
   },
   "banner": {
